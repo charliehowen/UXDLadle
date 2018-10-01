@@ -1,0 +1,119 @@
+﻿Inspirational Designs
+Team Ladle
+
+
+Acorns (https://www.acorns.com/)
+Tries to make investment more accessible by investing your spare change and teaching about investment.
+Apartment Finder (https://www.apartmentfinder.com)
+Apartment search service with intuitive web and mobile interface, comprehensive listings for just apartments that make it easy to use for young adults
+Magic (personal assistant app) https://getmagic.com/T
+Connects people to personal assistants paid to help them. 
+Geico (Insurance app) 
+Tycoon http://www.tycoonapp.com/ 
+Finance app for freelancers to streamline finance and job management.  Inspiring because it is geared toward very particular users.
+You need a budget (budget builder) https://www.youneedabudget.com/ 
+Able to connect your accounts into budgeting tool, which has a decent looking interface, but you need to pay a subscription to make a budget, which is horrible.
+Kayak (trip planning) https://www.kayak.com/ 
+        Price comparison and travel services for flights, hotels, cars, cruises, and more
+TalkSpace (mental health services) https://www.talkspace.com/
+        Connect with a licensed therapist online and talk/access resources 24/7
+MyCarFax (Car maintenance service) https://www.mycarfax.com/
+        From service history to finding mechanics, track your car’s health here.
+KBB (car purchasing/price negotiation) https://www.kbb.com/
+        Compare local prices, access negotiation info
+Out of Milk (grocery/shopping planning) https://www.outofmilk.com/ 
+NextDoor (super local facebook) https://nextdoor.com/login/
+        Inspired by the community sharing aspect of the app while still feeling safe.
+Bank of America (banking mobile/web app) https://www.bankofamerica.com/
+The app has many modern features that fit in with fast-paced lifestyles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chris - Magic
+  
+
+Magic is a personal assistant platform that uses software to help real people handle user requests. Users connect to a personal assistant through email and text which allows them to interact with the product without the need to adjust to a new platform. This makes magic feel less like “just another app” and more like a connection; more like a personal assistant. Magic’s website matches this feel with a modern and minimal design making the user feel as though Magic is a simple add-on to their daily life -- not a large complicated application.
+
+
+We were inspired by how minimal yet important Magic felt, it could be used through an already existing interaction path. Magic feels like a guide in the user’s life, not a hero. This makes the user feel like they are the hero of their life and is being helped/assisted by Magic, not changed. However, Magic does not include a reminder system which we would use heavily in one of our possible project paths. By using Magic’s concept of text/email communication and real people not AI, our product could be used as a system to remind people about upcoming life-skills related tasks (“Your car needs to be inspected next week”) and give them the information/guidance to get each task done as it comes. We wouldn’t borrow the system of being a personal assistant for any and all tasks. We would turn the idea of simple connectivity to real people using natural language through an already established interaction, to help remind people about life-skills tasks in real time and supply them with guidance and information.
+
+
+
+
+________________
+
+
+Sarah - Bank of America
+
+
+Bank of America is a banking app for customers of BoA to check balances, transfer money, deposit checks, and more.  Inside the app is fairly simple with 5 tabs along the top to choose from “Accounts”, “Transfer/Send”, “Bill Pay”, “Deposit Checks”, and “More”, though it could probably be designed to feel more modern. Some of the most useful features are depositing checks using the camera on your phone, without having to go to a bank, and syncing the log-in with the fingerprint log-in on your phone.
+
+
+ Image result for bank of america app 
+
+The positive reviews for the BoA app praise the mobile deposit feature, its reliability, the ease of transferring money using Zelle, and the convenience of having your bank information at hand all the time. Some of the complaints include not having everything available on the mobile app that is available on the website.  Overall, we feel this app is inspiring because it enables everyone to feel in control of their finances and it is adapting to a modern lifestyle with its on-the-go features for deposits and transfers.
+
+
+
+
+
+
+________________
+
+
+Charlie - Nextdoor
+
+
+Nextdoor is a community forum for local issues, information, and opportunities. Features include neighborhood events, a public market, safety and advice, and crowdsourcing. One of the critical components of the design is that it mirrors a physical community by emphasizing the personal connections and information (such as address, number of children, hobbies) that wouldn’t normally be shared on an internet platform. This increases the trust of all community members and allows many features such as the marketplace and advice forum to have higher quality interactions. Nextdoor also promotes community change by creating calls to action for residents. Disaster trainings, neighborhood gardening, and hobby groups all move beyond the platform to create tangible connections in the real world. Overall this platform is a great tool to effect real change and development within a city, district, or even street.
+  
+
+
+
+________________
+
+
+Jeremy - Tycoon
+
+
+Tycoon is a finance app designed specifically for freelancers. It allows users to track jobs, request payments, and estimate taxes from particular jobs. It was designed to address two major difficulties specific to freelance work - managing income and making sure clients actually pay you - and tries to make these interactions as straightforward as possible.
+
+
+Looking at screenshots and reviews, it seems like a significant effort was made in streamlining the user interface. It’s minimalistic, with few colored buttons and symbols on an otherwise white background, which reduces clutter and confusion. I didn’t actually try out the app, but I’m curious what process there is to input job information, and how easy/simple this interaction is.
+
+
+  
+
+
+
+________________
+
+
+Minju - Geico
+
+
+Geico is an insurance app from Geico insurance company. Users can access to insurance services such as roadside service and accident assistance while having information about their insurance plans. The app is designed to manage your insurance effectively without waiting long amount of time on the phone call with insurance agency. You can edit your coverage and see your policy all at once therefore making user can manage what they have. Interaction with the app was pretty straightforward with its simple overlay. The services that are frequently used such as emergency roadside assistance is the first thing you see when you boot up the app. Since the app offers personalized information, it takes long time to load the app and during loading screen, it shows family friendly diagrams so that it attempted to be friendly instead of being scary insurance company. The app seems like it was designed a lot of user experience considered.

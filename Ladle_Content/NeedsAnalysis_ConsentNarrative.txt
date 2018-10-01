@@ -1,0 +1,45 @@
+﻿User Experience Design, Fall 2018
+Olin College of Engineering
+Team Ladle
+Christopher Aring, Sarah Barden, Minju Kang, Charlie Owen, and Jeremy Ryan
+
+
+User Consent Narrative 
+
+
+Purpose
+We are students at Olin College of Engineering taking User Experience Design (UX Design).  Our goal is to understand your experiences and interactions as a user  in order to build effective user interfaces.  User interfaces are sometimes difficult for users and can have many unintuitive features. We hope to gain insight from your feedback and design a potential software solution with a well-made and intuitive user interface.
+
+
+Description
+UX Design is a class where we design a software prototype, focusing intently on making a user’s experience simple and intuitive. We will ask you to interact with our design at various stages so we can understand how users interact with different aspects of our prototype. Our priority is building the most optimal user experience and your feedback will be used as a guide to our team.
+
+
+Time
+This course lasts one semester and we hope to meet with you a few times over the course of the project.  Interviews will last about 30-45 minutes.
+
+
+Techniques that will be used upon your approval
+* Interviews
+* Photos 
+* Voice recording 
+
+
+Confidentiality
+All information will be anonymized. Your name and contact will only be known to our team and instructor. Other than your feedback, any possible sensitive information will not be shared with anyone besides the interviewers. If you choose to work with us, you may stop at any time and request to withdraw any information you have given to us. 
+
+
+Compensation
+There will not be any monetary compensation for your time; however, your feedback will be helpful for our own learning and progress.  We hope that you find indirect benefits from working with us including: learning about UX Design, experiencing early stage design, and seeing your feedback implemented into the project.
+
+
+Contact Information
+Students:
+Christopher Aring: Christopher.Aring@students.olin.edu
+Sarah Barden: Sarah.Barden@students.olin.edu
+Minju Kang: Minju.Kang@students.olin.edu
+Charlie Owen: Charlie.Owen@students.olin.edu
+Jeremy Ryan: Jeremy.Ryan@students.olin.edu
+Instructor: 
+Marco Morales: Marco.Morales@olin.edu
+(619) 243 - 6059

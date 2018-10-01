@@ -1,0 +1,47 @@
+Design Brief
+Team Ladle
+Chris Aring, Sarah Barden, Minju Kang, Charlie Owen, Jeremy Ryan, 
+
+Introduction
+Our team is investigating the problems around financial literacy and budgeting for young adults..  We feel that learning how to budget is an essential part of growing up and want to make this process easier and more informative.  
+
+The problem
+
+Throughout the needs analysis phase, we found out that people around us have common problems with budgeting app. Their common concerns include following:
+? Young adults do not know how to develop realistic budget plans
+? Budgeting apps are hard to keep track and they need to be retroactive
+? Budgeting apps have informations that they do not need or they do not understand (financial literacy)
+? Budgeting apps often require significant amount of categorizing but they’re not easy to keep track and confusing
+? Some budgeting apps offer automated categorization functionality and often times, they’re very inaccurate
+? Today’s technology makes money intangible and you feel like you don’t have real money
+? TIme - delays of certain transactions (ex. Credit cards) are misleading
+
+As an aspiring engineers who are part of User Experience Design class, we will come up with designs that helps resolving with stated problems as much as possible. These problems are stated  throughout the interviews that we’ve conducted during the needs analysis phase. 
+
+Our impact
+The project will allow users to increase their independence, quality of life, and confidence in learning new financial skills. We hope to simultaneously educate about critical issues and add a sense of levity to the process.
+
+We suspect that our user group will be dominated by young adults, since they are more likely to be comfortable with technology but not comfortable with personal finance. When asked what “adulting” meant, our users had answers like the following:
+
+- “Adulting is doing the things your parents used to do.”
+- “Adulting is making sure your life doesn’t fall apart.”
+- “Adulting is being an independent person, both financially and in your living situation.”
+
+Improving the experience young adults have with budgeting can help develop skills, improve confidence, and make the whole process less painful overall.
+
+User Interviewing
+Our target users are young adults between 18-25. These people have usually graduated high school and are working or in college. Some users on the older end may also be in post-college jobs or in graduate school.  We interviewed 10 users in this target group about adulting in general, and after deciding on the budgeting topic, we asked specifically about budgeting tools that they use. As we had aimed for, the majority of interviewees were not Olin students.
+
+From these interviews, we found that there is a prominent divide in independent and dependent money management skills, which is primarily determined by the size and strength of a user’s support network. We also found evidence to support an important differentiation between student and non-student experiences.  Often, the students we interviewed have less financial categories to worry about.  They may live in a dorm or have a food plan on campus, which is quite different from monthly rent payments and weekly grocery shopping, These different use-cases are something we should explore & detail further.
+
+Moving forward, we will revisit some of our original interviewees and ask them to respond to specific ideas and sketches from this next phase.  We are also sending out a survey to get a larger pool of data (both to Olin and outside Olin) and hopefully we will have some more respondents who would like to talk to us.
+
+Possible Barriers
+Potential design challenges are primarily psychological, and must be accounted for if we want a functional UX. These include information overload, information aversion, and inaccuracy of information. We also need to incorporate ease of use and minimize the application footprint to stay consistent with our users goals.
+
+One of the biggest things to be aware of is assumption checking moving forward. This is already a fairly saturated market, but nothing offers the utility we want to design for primarily because they make incorrect assumptions about their user groups (i.e. motivation, psychological processing, etc) and instead focus on rolling out new functionality. We aim to subvert that by remaining consistent with user’s needs, both conscious and subconscious.
+
+
+
+Goals
+We will strive to put health of each individual before productivity of the team and hold each other responsible for taking care of ourselves. We will commit a reasonable amount of time and effort to this project, while keeping in mind that we have other priorities including classes, future preparedness, life, and health. We will continually check in to ensure the direction we’re headed is the direction we’d like to go. We will also stick to loops such as design iterations and bi-weekly team assessment, etc. We will also openly accept other people’s opinion about our work and will not hesitate to kill our darling.
