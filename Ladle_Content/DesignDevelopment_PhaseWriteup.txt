@@ -1,0 +1,48 @@
+﻿`
+Ladle Design Development
+
+
+
+
+Overall Process 
+As we started the design development phase, we condensed our idea based on the insights we gained from last phase. We voted feasible yet unique and exciting ideas ourselves and drew their potential user interfaces on the paper. Then, we ranked each ideas in the scale of 1-5 for feasibility, forecasting, category customization, lesson takeaways, impact and uniqueness. Then, we weighted each categories and then summed the scores. We could see that ideas based on “setting goals” and“easy categorization” had highest scores. Since we thought both ideas can be incorporated, we decided to combine those and proceeded to paper prototyping. Then, we had “wizard of Oz” acting sessions by ourselves to see what we could potentially add / improve.  
+We initially had our app provide several forms of graphs (prototyped on the transparent paper) and we realized that these graphs are  very redundant and could impact user’s experience in negative way. Therefore, we took out multiple forms of graphs and settled with a pie graph, since pie graph provides most straightforward user interaction with other interfaces such as categorization or goal setting page. After that, we asked 6 users (we had 4 people testing our product as partners, 2 people at once and other people tested our product individually) to test our product. Then, we gained insights of what design we should alternate / improve to provide better user experience. Our testers provided thoughtful feedback and we decided to incorporate those feedbacks to our next phase design. 
+
+
+What is your design and how does it work?
+Our app has a few general sections: a set-up process, overview, goals, settings, and categorization.  The user connects their bank account and it tracks their purchases.  
+
+
+  
+
+The main difference from usual budgeting apps are the customizable categories and the goal setting focus of the app.  When the user makes a transactions, a notification pops up on their phone to categorize that purchase (unless they’ve previously categorized that type of interaction). They can easily pick and choose which categories they want, so it is easy to be in control of their budget, as opposed to apps that incorrectly categorize purchases or have way too many categories.
+We also want users to proactively manage their budgets, 
+
+
+How well does it meet user needs?
+We’ve identified a few critical needs from our user group, including the necessity to incorporate gamified elements into the functionality. Based on the feedback we received from user tests we decided to integrate as many interactive and engaging elements into the app flow to mitigate the often menial nature of the financial planning. One such example is the design of our categorization page, which arises when the app cannot determine how to sort a recent purchase. The user clicks on a notification and then is able to drag the purchase into the proper category bubble, indicative more of a ball shooting game than of finances. One user claimed that this screen was ‘the most engaging component’ of the app. 
+
+
+Another important need we’ve addressed is orienting towards proactive functionality rather than reactive. That is, to set goals a user can engage with initially, then continue to iterate upon thereafter. Ideally, this will create a constructive interaction with the interface, promoting frequency and depth of use. This is specifically relevant to our younger users because most are inexperienced and don’t have much foresight when it comes to money management. Depending on a user’s comfort level, we’ve added varying amounts of scaffolding to this process. If one so desires, they can have preset goals with amounts based on crowdsourced data, or they can entirely create their own. This anticipates the users will need more guidance in their budget creation, although the amount of customization makes it an incredibly powerful tool - hopefully comprehensive enough to fulfill any potential financial requirements.
+
+
+What alternative designs did we consider?
+While still in the initial stages of design, we dedicated effort to investigating a few directions. Qualitatively, we were exploring proactive vs reactive, and overall we took some of the best ideas from each path to integrate into our final design for this phase. We decided to merge together two initial ideas we had into one. One idea had a detailed display of a user’s budget with options to categorize data and review past purchases. We liked what this idea had to offer and felt it was proactive, however, it lacked a way to get some basic information about the user to create a more custom user experience. We used the data collection portion of another initial idea we had in order to get more information.
+Throughout the phase we continuously self-tested our designs to try to locate the more obvious errors in our design that made for a poor user experience. Throughout these self-tests, we found pages that didn’t have ‘done’ or ‘back’ buttons or lacked necessary components. We then made minor adjustments and ended up adding a goal section so that users could be more proactive and monitor their own progress. We then did user testing which allowed us to see how someone may interact with our app.
+
+
+Key insights
+There were a few repeating themes between user tests that represented significant areas for usability improvement.
+It’s worth noting that there are already a lot of existing budgeting apps; we hope to learn from existing products and try to optimize the experience, interface, and usability, so any small problem or inconvenience that makes the experience more difficult for the user is particularly harmful to the purpose of our app.
+
+
+The first of these repeating themes was the ambiguity of interactive elements. Several of our test users were confused as to whether certain visual elements were “clickable,” often missing important app functionality. This may have been partially because of the visual nature of paper prototypes, but is still important to address moving forward. Overall, we need to make sure that our app is visually consistent and that interactive elements in particular are clear and distinguishable.
+
+
+In addition, certain parts of our app navigation (specifically “back” arrows) were inconsistent or absent from different screens. This is mostly because each section of the app was prototyped by a different team member. For the digital prototype, we’ll make sure to make these elements exist and be consistent on all relevant screens.
+
+
+
+
+Next Steps
+        As we begin the next phase and start to create looks-like/works-like prototypes, our team plans on refining the design elements that work and iterating upon the ones that don’t. A few of our initial challenges should be solved given the nature of the new prototype format -- a digital interface rather than physical one -- but there are many we need to find specific solutions for as well. We tended towards providing less information for fear of overstimulation, but that led to problems with ambiguity in our features. We will continue to work on finding that balance, to make our design as straightforward and intuitive as possible. We will also work toward incorporating as much user feedback as possible, adding features or elements for which there is a clear need.
